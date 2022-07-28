@@ -1,5 +1,6 @@
-[
-  {
+{
+  "peliculas": [
+   {
     "id": 1,
     "titulo": "The Black Phone",
     "sinopsis": "Un homicida sádico y enmascarado mantiene a Finney, un niño de 13 años, secuestrado en un sótano incomunicado. A través de un teléfono averiado que hay en la pared, Finney se comunica con otras víctimas del criminal, quienes quieren ayudarlo.",
@@ -47,4 +48,7 @@
     "estado": 0,
     "urlPelicula": ""
   }
-]
+    
+  ]
+  
+}
