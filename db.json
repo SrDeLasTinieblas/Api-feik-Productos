@@ -1,86 +1,51 @@
-{
-  "products": [
-   {
-      "Id":1,
-      "Image":"https://i.ibb.co/c859g9K/Whats-App-Image-2022-05-24-at-6-43-38-PM-removebg-preview.png",
-      "PrecioCosto":2,
-      "Precio":7,
-      "Rating": 4.69,
-      "Descripcion":"Aroma la vanda ayuda a desinfectar y aromatizar el espacio de tu hogar",
-      "Titulo":"Limpia todo Kristal Clean",
-      "discount":40
-   },
-    {
-      "Id":2,
-      "Image":"https://i.ibb.co/c8Xjp7j/Whats-App-Image-2022-05-24-at-9-59-16-PM-removebg-preview.png",
-      "PrecioCosto":2,
-      "Precio":4,
-      "Rating": 9.69,
-      "Descripcion":"LIMPIA VIDRIO - 500ml el spray",
-      "Titulo":"Limpia vidrios",
-      "discount":30
-    },
-        {
-      "Id":3,
-      "Image":"https://i.ibb.co/3YcWbm4/713ac7d5-5b36-4e76-8b97-767999f41c50-removebg-preview.png",
-      "PrecioCosto":2,
-      "Precio":4,
-      "Rating": 8.69,
-      "Descripcion":"El sacagrasa viene en un frasco grande y en un spray de 500 ml para que puedas rociar de manera precisa el lugar donde quieras limpiar. Este líquido para limpiar baños elimina el virus que puede causa",
-      "Titulo":"Saca Grasa",
-      "discount":15
-    },
-        {
-      "Id":4,
-      "Image":"https://i.ibb.co/wpBDwR9/Whats-App-Image-2022-05-24-at-9-59-46-PM-removebg-preview.png",
-      "PrecioCosto":4,
-      "Precio":8,
-      "Rating": 10.69,
-      "Descripcion":"Lejía tu hogar y elimina el 99.99% de gérmenes.",
-      "Titulo":"Lejia",
-      "discount":20
-    },
-        {
-      "Id":5,
-      "Image":"https://i.ibb.co/CwmWJd9/f89373d6-f55b-49e4-a8dd-fd8fce100162-removebg-preview.png",
-      "PrecioCosto":2,
-      "Precio":14.80,
-      "Rating": 4.69,
-      "Descripcion":"Ambientador líquido formulado con insumos de la mejor calidad lo cual asegura su permanencia",
-      "Titulo":"Perfumador",
-      "discount":9
-    },
-        {
-      "Id":6,
-      "Image":"https://i.ibb.co/tY8wbbj/no-bg.png",
-      "PrecioCosto":2,
-      "Precio":6.50,
-      "Rating": 4.69,
-      "Descripcion":"El Antibacterial te brinda limpieza y protección. Su fórmula con 65% alcohol y vitamina E elimina el 99.9% de gérmenes y bacterias. Limpia y humecta tus manos.r",
-      "Titulo":"Antibacterial",
-      "discount":8
-    },
-        {
-      "Id":7,
-      "Image":"https://i.ibb.co/PrWzMmc/Whats-App-Image-2022-05-24-at-6-43-33-PM-removebg-preview.png",
-      "PrecioCosto":2,
-      "Precio":12.50,
-      "Rating": 4.69,
-      "Descripcion":"Acido Extrafuerte , es un potente limpiador que destruye el sarro, desmancha y desinfecta, teniendo como ingredientes activo al ácido clorhídrico de un olor penetrante.",
-      "Titulo":"Acido Extrafuerte",
-      "discount":5
-    },
-            {
-      "Id":8,
-      "Image":"https://i.ibb.co/MfbBRJM/Whats-App-Image-2022-05-24-at-6-43-43-PM-removebg-preview.png",
-      "PrecioCosto":4,
-      "Precio":11.50,
-      "Rating": 4.69,
-      "Descripcion":"Lavavajillas líquido con un agradable aroma. Es muy eficaz, rinde hasta 3 veces más que las presentaciones en pasta.",
-      "Titulo":"Lavavajillas",
-      "discount":10
-    }
-    
-  ]
-  
+[
+  {
+    "id": 1,
+    "titulo": "The Black Phone",
+    "sinopsis": "Un homicida sádico y enmascarado mantiene a Finney, un niño de 13 años, secuestrado en un sótano incomunicado. A través de un teléfono averiado que hay en la pared, Finney se comunica con otras víctimas del criminal, quienes quieren ayudarlo.",
+    "imagen": "https://www.pelisplus.lat/wp-content/uploads/2022/07/2LJC0MCghmmgSUNshpfA5RjHQay-199x300.jpg",
+    "trailer": "https://www.youtube.com/watch?v=kQ3EMxTAwXY",
+    "fecha": "2022-06-24T05:00:00.000Z",
+    "duracion": "01:42:00",
+    "calificacion": 4.5,
+    "genero": "Terror",
+    "director": "Alex Beaver",
+    "actores": "Andrew Farmer, Bay Allebach, Brady Hepner, Brady Ryan, Braxton Alexander, Chris TC Edge, Christine Connelly",
+    "clasificacion": "",
+    "estado": 0,
+    "urlPelicula": "https://uqload.com/embed-r11su0g7qh25.html"
+  },
+  {
+    "id": 3,
+    "titulo": "Sinister",
+    "sinopsis": "Un periodista viaja con su familia a lo largo y ancho del país para investigar terribles asesinatos que luego convierte en libros. Cuando llega a una casa donde ha tenido lugar el asesinato de una familia, encuentra una cinta que desvela horribles pistas que van más allá del esclarecimiento de la tragedia.",
+    "imagen": "https://image.tmdb.org/t/p/w500/rLcHfQ4fnwaFcElMMCWNfJtIecf.jpg",
+    "trailer": "https://www.youtube.com/watch?v=qcXom7JNKA0",
+    "fecha": "2012-10-18T05:00:00.000Z",
+    "duracion": "1:50:00",
+    "calificacion": 6.7,
+    "genero": "Terror",
+    "director": "Scott Derrickson",
+    "actores": "Blake Mizrahi, Cameron Ocasio, Clare Foley, Danielle Kotch, Ethan Haberfield, Ethan Hawke, Fred Dalton Thompson",
+    "clasificacion": "",
+    "estado": 0,
+    "urlPelicula": ""
+  },
+  {
+    "id": 4,
+    "titulo": "La noche del demonio",
+    "sinopsis": "Una familia descubre que los espíritus oscuros han invadido su hogar después de que su hijo inexplicablemente cae en un sueño sin fin. Cuando llegan a un profesional para obtener ayuda, aprenden que las cosas son mucho más personales de lo que pensaban.",
+    "imagen": "https://ww4.pelispedia.io/resize/200/storage/3437/5FFW7LqabUUtfpzexZR6smunTWjI9NFPr7fJCuC4.jpg",
+    "trailer": "https://www.youtube.com/watch?v=eqYKw2-I1ow",
+    "fecha": "2010-10-18T05:00:00.000Z",
+    "duracion": "1:33:00",
+    "calificacion": 8.7,
+    "genero": "Terror",
+    "director": "James Wan",
+    "actores": "Lin Shaye, Patrick Wilson, Rose Byrne, Ty Simpkins",
+    "clasificacion": "",
+    "estado": 0,
+    "urlPelicula": ""
+  }
+]
 }
