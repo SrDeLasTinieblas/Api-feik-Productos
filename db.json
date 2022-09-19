@@ -3,12 +3,12 @@
   "products": [
    {
       "Id":1,
-      "Image":"https://i.ibb.co/c859g9K/Whats-App-Image-2022-05-24-at-6-43-38-PM-removebg-preview.png",
+      "Image":"https://definicion.de/wp-content/uploads/2011/02/carne-1.jpg",
       "PrecioCosto":2,
       "Precio":7,
       "Rating": 4.69,
-      "Descripcion":"Aroma la vanda ayuda a desinfectar y aromatizar el espacio de tu hogar",
-      "Titulo":"Limpia todo Kristal Clean",
+      "Descripcion":"Se trata de uno de los alimentos más importantes porque aportan proteínas, grasas y minerales.",
+      "Titulo":"Carne",
       "discount":40
    },
     {
