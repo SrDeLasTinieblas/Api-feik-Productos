@@ -13,22 +13,22 @@
    },
     {
       "Id":2,
-      "Image":"https://i.ibb.co/c8Xjp7j/Whats-App-Image-2022-05-24-at-9-59-16-PM-removebg-preview.png",
+      "Image":"https://www.tresjotas.com/wp-content/uploads/2018/12/Pierna-de-cerdo-al-horno.jpg",
       "PrecioCosto":2,
       "Precio":4,
       "Rating": 9.69,
-      "Descripcion":"LIMPIA VIDRIO - 500ml el spray",
-      "Titulo":"Limpia vidrios",
+      "Descripcion":"La Navidad es una festividad que muchos costarricenses celebran con una cena familiar en que una pierna de cerdo suele convertirse en el gran atractivo.",
+      "Titulo":"Pierna de cerdo al horno",
       "discount":30
     },
         {
       "Id":3,
-      "Image":"https://i.ibb.co/3YcWbm4/713ac7d5-5b36-4e76-8b97-767999f41c50-removebg-preview.png",
+      "Image":"http://i1.wp.com/www.diariodelcomer.com/wp-content/uploads/2015/10/6957366590_6721249174_h.jpg",
       "PrecioCosto":2,
       "Precio":4,
       "Rating": 8.69,
-      "Descripcion":"El sacagrasa viene en un frasco grande y en un spray de 500 ml para que puedas rociar de manera precisa el lugar donde quieras limpiar. Este líquido para limpiar baños elimina el virus que puede causa",
-      "Titulo":"Saca Grasa",
+      "Descripcion":"El pechito de cerdo es un corte versátil que puede cocinarse de diferentes formas. Ya es un clásico de las parrilas argentinas como un participante más en el asado.",
+      "Titulo":"Pechito de cerdo laqueado",
       "discount":15
     },
         {
