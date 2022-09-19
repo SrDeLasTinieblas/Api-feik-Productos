@@ -53,32 +53,32 @@
     },
         {
       "Id":6,
-      "Image":"https://i.ibb.co/tY8wbbj/no-bg.png",
+      "Image":"https://img.freepik.com/fotos-premium/codillo-cerdo-jugoso-parrilla-codillo-apetitoso-o-pezuna-jabali-cocinar-pierna-cerdo-brasas-cerca_331695-2957.jpg?w=826",
       "PrecioCosto":2,
       "Precio":6.50,
       "Rating": 4.69,
-      "Descripcion":"El Antibacterial te brinda limpieza y protección. Su fórmula con 65% alcohol y vitamina E elimina el 99.9% de gérmenes y bacterias. Limpia y humecta tus manos.r",
-      "Titulo":"Antibacterial",
+      "Descripcion":"codillo apetitoso o pezuña de jabalí. cocinar la pierna de cerdo a las brasas.",
+      "Titulo":"Codillo de cerdo jugoso a la parrilla.",
       "discount":8
     },
         {
       "Id":7,
-      "Image":"https://i.ibb.co/PrWzMmc/Whats-App-Image-2022-05-24-at-6-43-33-PM-removebg-preview.png",
+      "Image":"https://imag.bonviveur.com/presentacion-principal-del-codillo-de-cerdo-al-horno.webp",
       "PrecioCosto":2,
       "Precio":12.50,
       "Rating": 4.69,
-      "Descripcion":"Acido Extrafuerte , es un potente limpiador que destruye el sarro, desmancha y desinfecta, teniendo como ingredientes activo al ácido clorhídrico de un olor penetrante.",
-      "Titulo":"Acido Extrafuerte",
+      "Descripcion":"se dice que del cerdo se aprovechan hasta los andares y es cierto. El codillo es una de las partes del cerdo que si se cocina con mimo resulta deliciosa",
+      "Titulo":"Codillo de cerdo al horno con patatas",
       "discount":5
     },
             {
       "Id":8,
-      "Image":"https://i.ibb.co/MfbBRJM/Whats-App-Image-2022-05-24-at-6-43-43-PM-removebg-preview.png",
+      "Image":"https://recetacubana.com/wp-content/uploads/2018/11/receta-lomo-de-cerdo.jpg",
       "PrecioCosto":4,
       "Precio":11.50,
       "Rating": 4.69,
-      "Descripcion":"Lavavajillas líquido con un agradable aroma. Es muy eficaz, rinde hasta 3 veces más que las presentaciones en pasta.",
-      "Titulo":"Lavavajillas",
+      "Descripcion":"El lomo de cerdo es una porción perfecta para cocinarla al horno, cuyo resultado es una carne asada bien jugosa y con un sabor increíble.",
+      "Titulo":"Lomo de Cerdo al Horno",
       "discount":10
     }
     
